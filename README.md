@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Thalyta Rangel 👋
 
-<!--
-**ThalytaRangel/ThalytaRangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+👩‍💻 I'm a Fullstack Developer, who is always learning and searching for my next challenge. Working my way to achive de next level. 
 
-Here are some ideas to get you started:
+📖 I'm currently studying web development at Rocketseat.🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current stack
+
+- ⚡️ Main language: `Javascript`
+- 📡 Backend: `Node.js`
+- ✨ Frontend: `HTML5`, `CSS3`, `Javascript`
+- 🎨 Layout design: `Figma`
+- 📦️ Version Code Control: `Git & Github`
+- 🔧 Tools: `VsCode` 
+
+#### Contact
+
+- <a href="https://www.linkedin.com/in/thalyta-rangel-341b44161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
