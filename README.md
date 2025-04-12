@@ -1,6 +1,6 @@
 ## Oi pessoal, sou a Thalyta Rangel 👋
 
-### Sobre mim
+### 😊 Sobre mim
 
 - 👩‍💻Sou desenvolvedora front-end com sólida experiência e entrega de soluções que façam sentido para o usuário final.
 - 🤝 Atuei em projetos com equipes multidisciplinares, colaborando desde o planejamento técnico até a implementação.
@@ -8,7 +8,7 @@
 - 👩‍🏫 Sou formada em história com uma coleção de soft skills valiosas para o mercado tech. 
 - 💻 Sempre buscando novas maneiras de me reinventar e novos desafios que me permitam evoluir. 
 
-### Stacks
+### 🦾 Stacks
 
 - ⚡️ Linguagens: `Javascript`, `Typescript`
 - 📡 Back-end: `Node.js`
@@ -18,7 +18,7 @@
 - 🔧 Ferramentas: `VsCode`
 - 👩‍🎓 Estudando: `NextJs`
 
-### Últimos projetos
+### 💾 Últimos Projetos
 
 #### <a target="_blank" href="www.lab-yes.com">Lab Yes!</a>  - Site institucional
 Atuei como desenvolvedora front-end da página e como gerente de projetos da equipe reservada ao projeto. 
@@ -34,7 +34,7 @@ Tecnologias utilizadas:
 - React | Styled Components | Emailjs 
 
 
-#### Contact
+### 📬 Contact
 
 - <a href="https://www.linkedin.com/in/thalyta-rangel-341b44161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
